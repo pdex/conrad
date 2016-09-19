@@ -1,0 +1,3 @@
+* maven coordinates
+
+** https://maven.apache.org/pom.html#Maven_Coordinates
